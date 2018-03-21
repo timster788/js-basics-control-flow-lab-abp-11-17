@@ -1,7 +1,6 @@
 // Write your code in this file!
-scuberGreetingForFeet();
-function scuberGreetingForFeet(ride){
-  if(ride() <=== 400){
-    console.log('This one is on me!';)
+function scuberGreetingForFeet(distance){
+  if(ride() <= 400){
+   return 'This one is on me!'
   }
 }
