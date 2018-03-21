@@ -23,11 +23,9 @@ function scuberGreetingForFeet(distance){
           return "Thank you."
           case "thanks for everything":
           return "Bye"
-            
-            
-          
-          
-      } 
+
+
+
+
+      }
      }
-  }
-  
