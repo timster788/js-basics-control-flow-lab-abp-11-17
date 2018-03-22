@@ -21,7 +21,7 @@ function scuberGreetingForFeet(distance){
           case "not as generous":
           return "Thank you."
           case "thanks for everything":
-          return "Bye"
+          return "Bye."
 
 
 
