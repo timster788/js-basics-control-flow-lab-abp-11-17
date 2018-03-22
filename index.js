@@ -16,12 +16,9 @@ function scuberGreetingForFeet(distance){
     }
      function switchOnCharmFromTip(tipString){
         switch(tipString){
-        case 'generous':
-        return  'Thank you so much.'
-          case "not as generous":
-          return "Thank you."
-          case "thanks for everything":
-          return "Bye."
+         case "generous":
+          return "Thank you so much."
+      
 
 
 
